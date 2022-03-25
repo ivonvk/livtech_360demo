@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2208694616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ad263b547ab675c33796ddd0cada3a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Images/Animations/attack/Attacking_000.png
+- Assets/Resources/Images/Animations/attack/Attacking_005.png
+- Assets/Resources/Images/Animations/attack/Attacking_003.png
+- Assets/Resources/Images/Animations/attack/Attacking_010.png
+- Assets/Resources/Images/Animations/attack/Attacking_006.png
+- Assets/Resources/Images/Animations/attack/Attacking_009.png
+- Assets/Resources/Images/Animations/attack/Attacking_004.png
+- Assets/Resources/Images/Animations/attack/Attacking_007.png
+- Assets/Resources/Images/Animations/attack/Attacking_001.png
+- Assets/Resources/Images/Animations/attack/Attacking_011.png
+- Assets/Resources/Images/Animations/attack/Attacking_002.png
+- Assets/Resources/Images/Animations/attack/Attacking_008.png
+Dependencies: []

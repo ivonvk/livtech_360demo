@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2476015604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bda7cd781487b73e9ca77bcd559efea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8b8448c7b696490ac5d512ac9b401452
+HashAppended: 0
+ClassTypes:
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Images/Animations/attack/attacking_anim.controller
+Dependencies:
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim/part_01/anim.ab

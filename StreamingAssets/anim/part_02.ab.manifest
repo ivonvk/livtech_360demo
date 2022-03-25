@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 690402293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6a2d253ddb8663c741b890bf3c6200e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a14b943f8275bc9f3e94c1070cb2e266
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefabs/anim_part_02.prefab
+Dependencies:
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim/part_02/ac.ab
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim_tex/part_02.ab

@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 4271642074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b079c5a5d79a5120f266657fa9577477
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/LivTech_Gallary_Set/Materials/WoodFineDark004_2K.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_145028177.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/WoodFineVeneerOakLarge002_COL_1K.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_196088225.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/WoodFlooringMahoganyAfricanSanded001_2K.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_028149177.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_228153184.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/TopLight_Second.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_088199225.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_154154229.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/WoodFineDark004_COL_2K.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_088177027.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/TVScreen.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wirelight_light.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_088088225.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_027177148.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/TV.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/TopLight_body.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_008061138.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/TopLight_Light.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Window_material.mat
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_mats.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_225198087.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_087225087.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/wire_228214153.mat
+Dependencies:
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/tex/part_01.ab
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/tex/part_02.ab

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3003669870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d00387ca09f296bf890e044c6457babf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/LivTech_Gallary_Set/Materials/Material.003.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/MAT_Poster01.001.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Material.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/MAT_Poster01.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Material.002.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/hidden_material.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Material.004.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/MAT_Poster01.002.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/MAT_DisplayWall.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/MAT_Poster01.003.mat
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3876215686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d745a93f916699d7fa9bfc929f9fd6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/LivTech_Gallary_Set/Materials/ChairSoborg_Oak.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Glass_material.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/FabricDenim003_3K.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/ChairSoborg_AllenScrew.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/FabricDenim003_COL_VAR1_3K.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/ChairSoborg_AllenScrewHole.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Column_rect.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Column_material.mat
+Dependencies:
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/tex/part_01.ab

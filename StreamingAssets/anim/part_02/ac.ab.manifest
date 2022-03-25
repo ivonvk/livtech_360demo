@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1028980767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94a949dbe4a49ea2ed26781d12a9a896
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8b8448c7b696490ac5d512ac9b401452
+HashAppended: 0
+ClassTypes:
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Images/Animations/moving/running_anim.controller
+Dependencies:
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim/part_02/anim.ab

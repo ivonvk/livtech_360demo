@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1362343236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3c185f6f36e0f08449127c12668efa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be10fbd89bdb8dfde4467e09c6fdd5e0
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Images/Animations/moving/running_idle.anim
+Dependencies:
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim_tex/part_02.ab

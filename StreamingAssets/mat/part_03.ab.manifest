@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 239920675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51589c32edb7bb7bc9382881fa4eaf66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/LivTech_Gallary_Set/Materials/Shelves_material.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Poster_txt_01.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/MetalSpottyDiscoloration001_2K.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Plastic_Handle_material.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Poster_txt_02.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/SVGMat.004.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Sill_material.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/MetalSpottyDiscoloration001_COL_2K_METALNESS.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Poster_txt_03.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/Poster_txt_04.mat
+- Assets/Resources/LivTech_Gallary_Set/Materials/No Name.mat
+Dependencies:
+- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/tex/part_01.ab

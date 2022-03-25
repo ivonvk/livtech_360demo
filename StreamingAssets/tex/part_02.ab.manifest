@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2869764885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45f4088851a253d51034b6ecf6d186d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_cut/P01_02_A.png
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_cut/P01_01_B.png
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_cut/P01_02_B.png
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_cut/P02_01_B.png
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_cut/P01_01_C.png
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_cut/P02_01_A.png
+- Assets/Resources/LivTech_Gallary_Set/textures/poster_cut/P01_01_A.png
+Dependencies: []

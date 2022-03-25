@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1241913388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06f0d3fdf1eabde1c68832227f96c072
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Images/Animations/moving/Running_014.png
+- Assets/Resources/Images/Animations/moving/Running_010.png
+- Assets/Resources/Images/Animations/moving/Running_016.png
+- Assets/Resources/Images/Animations/moving/Running_013.png
+- Assets/Resources/Images/Animations/moving/Running_017.png
+- Assets/Resources/Images/Animations/moving/Running_004.png
+- Assets/Resources/Images/Animations/moving/Running_011.png
+- Assets/Resources/Images/Animations/moving/Running_001.png
+- Assets/Resources/Images/Animations/moving/Running_006.png
+- Assets/Resources/Images/Animations/moving/Running_015.png
+- Assets/Resources/Images/Animations/moving/Running_009.png
+- Assets/Resources/Images/Animations/moving/Running_003.png
+- Assets/Resources/Images/Animations/moving/Running_008.png
+- Assets/Resources/Images/Animations/moving/Running_002.png
+- Assets/Resources/Images/Animations/moving/Running_005.png
+- Assets/Resources/Images/Animations/moving/Running_007.png
+- Assets/Resources/Images/Animations/moving/Running_000.png
+- Assets/Resources/Images/Animations/moving/Running_012.png
+Dependencies: []

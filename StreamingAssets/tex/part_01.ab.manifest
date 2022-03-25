@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 443721738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 002fe8e581cefc3547bce8c3aa401286
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/LivTech_Gallary_Set/textures/FabricDenim003/FabricDenim003_Flat.jpg
+- Assets/Resources/LivTech_Gallary_Set/textures/WoodFlooringMahoganyAfricanSanded001
+  (1)/WoodFlooringMahoganyAfricanSanded001_Flat.jpg
+- Assets/Resources/LivTech_Gallary_Set/textures/MetalSpottyDiscoloration001/MetalSpottyDiscoloration001_Flat.jpg
+Dependencies: []
