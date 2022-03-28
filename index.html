@@ -21,7 +21,7 @@
 
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-
+	
 </head>
 
 <style>
@@ -146,10 +146,11 @@
 
 	function openNav() {
 		if (!open) {
-
+			let w = screen.width*0.4;
 			open = true;
-			document.getElementById("mySidenav").style.width = "500px";
+			document.getElementById("mySidenav").style.width = w+"px";
 			document.getElementById("main").style.marginLeft = "0";
+			
 		} else {
 			document.getElementById("mySidenav").style.width = "0";
 			document.getElementById("main").style.marginLeft = "0";
