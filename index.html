@@ -99,14 +99,21 @@
 
 		<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
 
-		<canvas id="unity-canvas"></canvas>
-		<div id="unity-loading-bar">
-			<div id="unity-logo"></div>
-			<div id="unity-progress-bar-empty">
+		<div id="unity-container" class="unity-desktop">
+			<canvas id="unity-canvas" width=960 height=480></canvas>
+			<div id="unity-loading-bar">
+			  <div id="unity-logo"></div>
+			  <div id="unity-progress-bar-empty">
 				<div id="unity-progress-bar-full"></div>
+			  </div>
 			</div>
-		</div>
-		<div id="unity-warning"> </div>
+			<div id="unity-warning"> </div>
+			<div id="unity-footer">
+			  <div id="unity-webgl-logo"></div>
+			  <div id="unity-fullscreen-button"></div>
+			  <div id="unity-build-title">360 Tour Liv-Tech Project Demo</div>
+			</div>
+		  </div>
 	</div>
 </body>
 
@@ -173,7 +180,7 @@
 	// user.
 
 	function TestMsg(s) {
-		alert("I am an alert box!");
+		
 
 		
 		document.getElementById("popupIFrame").src = s;
@@ -252,9 +259,9 @@
 			progressBarFull.style.width = 100 * progress + "%";
 		}).then((unityInstance) => {
 			loadingBar.style.display = "none";
-			/*fullscreenButton.onclick = () => {
+			fullscreenButton.onclick = () => {
 			  unityInstance.SetFullscreen(1);
-			};*/
+			};
 		}).catch((message) => {
 			alert(message);
 		});
