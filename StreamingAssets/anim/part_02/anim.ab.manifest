@@ -17,4 +17,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Resources/Images/Animations/moving/running_idle.anim
 Dependencies:
-- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim_tex/part_02.ab
+- /Users/ivonchan/LT2022 Dropbox/kaho chan/Mac/Desktop/3.0Web Project/20220314_360
+  Tour Liv-Tech Project Demo/Assets/ABs/anim_tex/part_02.ab

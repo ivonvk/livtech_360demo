@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 690402293
+CRC: 1420018824
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e6a2d253ddb8663c741b890bf3c6200e
+    Hash: 4a3633836a03bc3ca89c75fa0e864e32
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a14b943f8275bc9f3e94c1070cb2e266
+    Hash: a1cc79e2dc4ba39e457be5cbe013b06a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,6 +16,8 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 74
   Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
@@ -27,7 +29,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Resources/Images/Animations/moving/running_anim.controller
+- Assets/Resources/Images/Animations/moving/running_idle.anim
 - Assets/Resources/Prefabs/anim_part_02.prefab
 Dependencies:
-- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim/part_02/ac.ab
-- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim_tex/part_02.ab
+- /Users/ivonchan/LT2022 Dropbox/kaho chan/Mac/Desktop/3.0Web Project/20220314_360
+  Tour Liv-Tech Project Demo/Assets/ABs/anim_tex/part_02.ab

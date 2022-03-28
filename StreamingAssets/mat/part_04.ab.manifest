@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4271642074
+CRC: 285245675
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b079c5a5d79a5120f266657fa9577477
+    Hash: 9792c818c31526d9af9cda09a430b3a9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ed098661139a8dfcb7d987ca0c8a1ba
@@ -43,5 +43,7 @@ Assets:
 - Assets/Resources/LivTech_Gallary_Set/Materials/wire_087225087.mat
 - Assets/Resources/LivTech_Gallary_Set/Materials/wire_228214153.mat
 Dependencies:
-- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/tex/part_01.ab
-- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/tex/part_02.ab
+- /Users/ivonchan/LT2022 Dropbox/kaho chan/Mac/Desktop/3.0Web Project/20220314_360
+  Tour Liv-Tech Project Demo/Assets/ABs/tex/part_01.ab
+- /Users/ivonchan/LT2022 Dropbox/kaho chan/Mac/Desktop/3.0Web Project/20220314_360
+  Tour Liv-Tech Project Demo/Assets/ABs/tex/part_02.ab

@@ -15,4 +15,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Resources/Images/Animations/attack/attacking_anim.controller
 Dependencies:
-- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/anim/part_01/anim.ab
+- /Users/ivonchan/LT2022 Dropbox/kaho chan/Mac/Desktop/3.0Web Project/20220314_360
+  Tour Liv-Tech Project Demo/Assets/ABs/anim/part_01/anim.ab

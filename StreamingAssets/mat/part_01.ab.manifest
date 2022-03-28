@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3876215686
+CRC: 1288362650
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -26,4 +26,5 @@ Assets:
 - Assets/Resources/LivTech_Gallary_Set/Materials/Column_rect.mat
 - Assets/Resources/LivTech_Gallary_Set/Materials/Column_material.mat
 Dependencies:
-- /Users/ivonchan/Desktop/3.0Web Project/20220314_360 Tour Liv-Tech Project Demo/Assets/ABs/tex/part_01.ab
+- /Users/ivonchan/LT2022 Dropbox/kaho chan/Mac/Desktop/3.0Web Project/20220314_360
+  Tour Liv-Tech Project Demo/Assets/ABs/tex/part_01.ab
